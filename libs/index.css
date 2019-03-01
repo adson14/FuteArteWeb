@@ -1,0 +1,76 @@
+#area
+{
+   position:relative;
+  
+ 
+  width:100%;
+  height:100%;
+  margin-right: auto;
+  margin-left: auto;
+      font-size: 14px;
+  
+ 
+}
+
+#area1
+{
+   position:relative;
+  
+  margin-top: -16px;
+  width:100%;
+  height:50%;
+  margin-right: auto;
+  margin-left: auto;
+border: solid 2px;
+  border-color: white;
+  //box-shadow: 0px 0px 5px 5px #9C9C9C;
+ 
+  background-color: white;
+  
+  
+ 
+}
+
+#nav{
+    width:100%;
+    height: 50px;
+    background-color: #1a5f03ad;
+}
+
+.table td, .table th {
+    padding: .30rem !important;
+}
+
+.sidebar {
+        background-color: #639254 !important;
+            border: solid 2px;
+    border-color: white;
+}
+h1{
+    color:white;
+}
+
+.btn {
+   
+    padding: .2rem .2rem !important; 
+    
+
+   
+}
+#marca{
+    font-size: 80px;
+    font-family: Arial Black;
+}
+#dev{
+    font-size: 20px;
+    font-family: Arial Black;
+}
+#versao{
+    margin-top: 30%;
+    margin-right: 50px;
+}
+
+.bg-dark {
+     border: solid 2px;
+    border-color: white;
+}
